@@ -1,0 +1,6 @@
+rich
+pymem
+psutil
+pywin32
+pycryptodomex
+pyinstaller
