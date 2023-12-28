@@ -1,0 +1,2 @@
+# WeChatDBThief
+get wechat database
